@@ -31,8 +31,8 @@ A Python automation script that notifies you via email when the **International 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/iss-overhead-notifier.git
-cd iss-overhead-notifier
+git clone https://github.com/arm-n/ISS-Overhead-Notifier.git
+cd ISS-Overhead-Notifier
 ```
 
 2. **Install dependencies**
